@@ -1,4 +1,8 @@
+Control reveal speed demo: reveal speed modifier is assigned after author ID in generic lines. Implemented in `Runtime/CustomGenericLineParser.cs`.
 Kohaku-10: Slow print speed.
 Kohaku-100: Normal print speed.
-Kohaku-200: Fast print speed.
+Kohaku-175: Fast print speed.
+
+Auto wait demo: automatically add inlined wait commands after triple dots. Implemented in `Runtime/CustomParser.cs` 
+Lorem ipsum... Dolor sit amet. Consectetur adipiscing elit... Suspendisse pretium lorem justo.
 @stop
